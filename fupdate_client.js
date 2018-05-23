@@ -23,6 +23,6 @@ http.createServer(function (req, res) {
     return res.end();
   });
 
-}).listen(8080);
+}).listen(9090);
 
-console.log(' > stand-alone json webservice started on port 8080\r\n' );  
+console.log(' > stand-alone json webservice started on port 9090\r\n' );  
